@@ -5,9 +5,11 @@ import java.util.Scanner;
 public class Antras {
 
 	public static void main(String[] args) {
+		
+		// dideli pakeitimai
 
 		Scanner s = new Scanner(System.in);
-		System.out.println(" Prašome įvesti teigiamą sveikąjį skaičių");
+		System.out.println(" PraÅ¡ome Ä¯vesti teigiamÄ… sveikÄ…jÄ¯ skaiÄ�iÅ³");
 		int num = s.nextInt();
 		s.close();
 
