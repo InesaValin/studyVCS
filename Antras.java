@@ -7,6 +7,7 @@ public class Antras {
 	public static void main(String[] args) {
 		
 		// dideli pakeitimai
+		// dar didesni pakeitimai
 
 		Scanner s = new Scanner(System.in);
 		System.out.println(" PraÅ¡ome Ä¯vesti teigiamÄ… sveikÄ…jÄ¯ skaiÄ�iÅ³");
